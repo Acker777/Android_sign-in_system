@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:id="@+id/course_item"
+        android:background="@color/teal_200"
+        android:layout_width="0dp"
+        android:layout_height="35dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.513">
+
+        <TextView
+            android:id="@+id/register_name"
+            android:layout_width="80dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="3dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="5dp"
+            android:hint="签到名称"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/register_time"
+            android:layout_width="150dp"
+            android:layout_height="35dp"
+            android:layout_alignTop="@id/register_name"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="110dp"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="0dp"
+            android:hint="签到时间"
+            android:textSize="14sp" />
+
+                <Button
+                    android:id="@+id/is_register"
+                    android:layout_width="80dp"
+                    android:layout_height="35dp"
+                    android:layout_alignTop="@id/register_time"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginStart="270dp"
+                    android:layout_marginLeft="270dp"
+                    android:layout_marginTop="-5dp"
+                    android:hint="签到情况"
+                    android:textSize="12sp" />
+
+        <View
+            android:id="@+id/v_divider"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:background="@color/black" />
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

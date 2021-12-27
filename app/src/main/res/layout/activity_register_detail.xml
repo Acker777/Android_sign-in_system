@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="500px">
+            <TextView
+                android:id="@+id/reg_detail_total"
+                android:layout_width="500px"
+                android:layout_height="match_parent"
+                android:textSize="150px"
+                android:text="12/30"
+                android:gravity="center"
+                android:background="@color/teal_200"
+                ></TextView>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/purple_200"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150px">
+                    <TextView
+                        android:id="@+id/reg_detail_state"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="签到状态："
+                        android:gravity="center_vertical"
+                        android:textSize="50px"></TextView>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150px">
+                    <TextView
+                        android:id="@+id/reg_detail_rate"
+                        android:layout_width="match_parent"
+                        android:layout_height="200px"
+                        android:gravity="center_vertical"
+                        android:text="到课率：85%"
+                        android:textSize="40px"></TextView>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200px">
+                    <TextView
+                        android:id="@+id/reg_detail_noRegNum"
+                        android:layout_width="wrap_content"
+                        android:layout_height="200px"
+                        android:gravity="center_vertical"
+                        android:text="缺勤人数：12"
+                        android:textSize="40px"></TextView>
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+        <ListView
+            android:id="@+id/reg_detail_lv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></ListView>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
