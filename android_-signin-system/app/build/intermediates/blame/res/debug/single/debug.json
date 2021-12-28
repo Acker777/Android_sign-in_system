@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_edit_shape.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\wifi_edit_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_accessible_forward_24.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_accessible_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_accessible_forward_24.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_accessible_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visibility_black_24dp.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visibility_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_option.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\option.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_course_list.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_course_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_course.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_add_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_student_list.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\register_student_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q5.jpg.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\q5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_accessible_forward_24.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_accessible_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_accessible_forward_24.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_accessible_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher_main.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_teacher_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visibility_off_black_24dp.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visibility_off_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_accessible_forward_24.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_accessible_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_course_list.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\content_course_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login1.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\login1.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher_course_detail.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_teacher_course_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_student_course_list.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\student_course_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_main.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_student_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_detail.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_register_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_accessible_forward_24.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_accessible_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denglu_tb2.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\denglu_tb2.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denglu_tb1.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\drawable\\denglu_tb1.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_list_item.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\register_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_accessible_forward_24.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_accessible_forward_24.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_course_register.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\course_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_student_course_register_item.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\student_course_register_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bruceLee\\Desktop\\anzuo\\ANZUO\\android_-register_-system-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
