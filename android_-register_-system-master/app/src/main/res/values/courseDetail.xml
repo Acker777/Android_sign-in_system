@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="no">
+        <item>编号：11111</item>
+        <item>编号：1211</item>
+        <item>编号：11311</item>
+    </string-array>
+    <string-array name="name">
+        <item>签到名称：测试</item>
+        <item>签到名称：测试2</item>
+        <item>签到名称：测试3</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>发布时间：2021年9月19日16:30:17</item>
+        <item>发布时间：2021年9月12日16:30:17</item>
+        <item>发布时间：2021年9月14日16:30:17</item>
+    </string-array>
+    
+</resources>
