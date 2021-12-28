@@ -4,12 +4,8 @@
     package="com.example.android_register_system">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
-
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
-        android:networkSecurityConfig="@xml/network_security_config"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -18,7 +14,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_Register_System"
         android:usesCleartextTraffic="true">
-        <activity android:name=".RegisterDetailActivity"></activity>
+        <activity
+            android:name=".CourseListActivity"
+            android:label="@string/title_activity_course_list"
+            android:theme="@style/Theme.Android_Register_System.NoActionBar"></activity>
+        <activity android:name=".RegisterDetailActivity" />
         <activity android:name=".TeacherCourseDetailActivity" />
         <activity android:name=".AddCourseActivity" />
         <activity android:name=".RegisterActivity" />

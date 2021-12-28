@@ -53,11 +53,11 @@ public class RegisterStudentInfoAdapter extends ArrayAdapter<RegisterStudentInfo
         RegisterStudentInfo info = getItem(position);
         View view;
         //为listView滚动的时候快速设置值，否则需要一次加载全部数据降低性能。
-        final RegisterStudentInfoAdapter.RegStudentInfoHolder vh;
+        final RegStudentInfoHolder vh;
         if (convertView == null) {
             //resourceId指的是某一项需新闻的id
             view = LayoutInflater.from(getContext()).inflate(resourceId, parent,false);
-            vh = new RegisterStudentInfoAdapter.RegStudentInfoHolder();
+            vh = new RegStudentInfoHolder();
             vh.reg_stu_list_no=view.findViewById(R.id.reg_stu_list_no);
             vh.reg_stu_list_name=view.findViewById(R.id.reg_stu_list_name);
             vh.reg_stu_list_date=view.findViewById(R.id.reg_stu_list_date);
@@ -117,7 +117,7 @@ public class RegisterStudentInfoAdapter extends ArrayAdapter<RegisterStudentInfo
             view.setTag(vh);
         } else {
             view = convertView;
-            vh = (RegisterStudentInfoAdapter.RegStudentInfoHolder) view.getTag();
+            vh = (RegStudentInfoHolder) view.getTag();
         }
         vh.reg_stu_list_no.setText(info.getStudentNum());
         vh.reg_stu_list_name.setText(info.getUserName());

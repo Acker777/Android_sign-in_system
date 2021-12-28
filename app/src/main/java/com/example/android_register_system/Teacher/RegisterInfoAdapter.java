@@ -34,11 +34,11 @@ public class RegisterInfoAdapter extends ArrayAdapter<RegisterInfo> {
         RegisterInfo info = getItem(position);
         View view;
         //为listView滚动的时候快速设置值，否则需要一次加载全部数据降低性能。
-        final RegisterInfoAdapter.RegInfoHolder vh;
+        final RegInfoHolder vh;
         if (convertView == null) {
             //resourceId指的是某一项需新闻的id
             view = LayoutInflater.from(getContext()).inflate(resourceId, parent, false);
-            vh = new RegisterInfoAdapter.RegInfoHolder();
+            vh = new RegInfoHolder();
             vh.register_list_no = view.findViewById(R.id.register_list_no);
             vh.register_list_name = view.findViewById(R.id.register_list_name);
             vh.register_list_date = view.findViewById(R.id.register_list_date);
@@ -46,7 +46,7 @@ public class RegisterInfoAdapter extends ArrayAdapter<RegisterInfo> {
             view.setTag(vh);
         } else {
             view = convertView;
-            vh = (RegisterInfoAdapter.RegInfoHolder) view.getTag();
+            vh = (RegInfoHolder) view.getTag();
         }
         vh.register_list_no.setText(info.getRegisterId());
         vh.register_list_name.setText(info.getRegisterName());

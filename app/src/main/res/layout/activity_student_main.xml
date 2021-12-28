@@ -1,36 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".StudentMainActivity">
 
 
     <RelativeLayout
-        android:id="@+id/relativeLayout2"
-        android:layout_width="wrap_content"
-        android:layout_height="100dp"
-        tools:ignore="MissingConstraints">
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/purple_200">
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="选课"
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+    </RelativeLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/q5"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="30dp">
         <EditText
             android:id="@+id/et_courseNum"
-            android:layout_width="160dp"
+            android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:hint="请输入课号">
+            android:background="#000000ff"
+            android:textColor="#ffff0000"
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:hint="请输入你要加入的课号">
         </EditText>
+
 
         <Button
             android:id="@+id/btn_add"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="180dp"
-            android:layout_marginLeft="180dp"
-            android:layout_marginRight="30dp"
-            android:layout_marginEnd="30dp"
-            android:text="加入课程">
-        </Button>
-    </RelativeLayout>
+            android:layout_height="50dp"
+            android:background="#000000ff"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:text="加入课程"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#eaeaea" />
+
+
+
 
     <ListView
         android:id="@+id/lv_course_list"
@@ -49,4 +83,9 @@
         tools:layout_editor_absoluteX="20dp"
         tools:ignore="NotSibling" />
 
-</android.support.constraint.ConstraintLayout>
+
+
+
+
+</LinearLayout>
+

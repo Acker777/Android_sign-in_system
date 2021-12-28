@@ -37,17 +37,17 @@ public class CourseAdapter extends ArrayAdapter<Course> {
         Course course = getItem(position);
         View view;
         //为listView滚动的时候快速设置值，否则需要一次加载全部数据降低性能。
-        final CourseAdapter.CourseViewHolder vh;
+        final CourseViewHolder vh;
         if (convertView == null) {
             //resourceId指的是某一项需新闻的id
             view = LayoutInflater.from(getContext()).inflate(resourceId, parent,false);
-            vh = new CourseAdapter.CourseViewHolder();
+            vh = new CourseViewHolder();
             vh.tv_course_num=view.findViewById(R.id.tv_course_num);
             vh.tv_course_name=view.findViewById(R.id.tv_course_name);
             view.setTag(vh);
         } else {
             view = convertView;
-            vh = (CourseAdapter.CourseViewHolder) view.getTag();
+            vh = (CourseViewHolder) view.getTag();
         }
 
         vh.tv_course_num.setText("课号："+course.getCourseId());

@@ -65,18 +65,18 @@ public class StudentRegisterMessageAdapter extends ArrayAdapter<StudentRegisterM
         StudentRegisterMessage studentRegisterMessage = getItem(position);
         View view;
         //为listView滚动的时候快速设置值，否则需要一次加载全部数据降低性能。
-        final StudentRegisterMessageAdapter.StudentRegisterMessageViewHolder vh;
+        final StudentRegisterMessageViewHolder vh;
         if (convertView == null) {
             //resourceId指的是某一项的id
             view = LayoutInflater.from(getContext()).inflate(resourceId, parent, false);
-            vh = new StudentRegisterMessageAdapter.StudentRegisterMessageViewHolder();
+            vh = new StudentRegisterMessageViewHolder();
             vh.register_name = view.findViewById(R.id.register_name);
             vh.register_time = view.findViewById(R.id.register_time);
             vh.is_register = view.findViewById(R.id.is_register);
             view.setTag(vh);
         } else {
             view = convertView;
-            vh = (StudentRegisterMessageAdapter.StudentRegisterMessageViewHolder) view.getTag();
+            vh = (StudentRegisterMessageViewHolder) view.getTag();
         }
 
         vh.register_name.setText(studentRegisterMessage.getRegisterName());

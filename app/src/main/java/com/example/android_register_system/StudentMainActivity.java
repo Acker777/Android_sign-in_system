@@ -146,7 +146,7 @@ public class StudentMainActivity extends AppCompatActivity {
         }).start();
     }
 
-    private okhttp3.Callback callback = new okhttp3.Callback() {
+    private Callback callback = new Callback() {
         @Override
         public void onFailure(Call call, IOException e) {
             Log.e("", "Failed to connect server!");

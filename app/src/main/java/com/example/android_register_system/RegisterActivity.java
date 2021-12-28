@@ -15,7 +15,6 @@ import android.widget.Toast;
 import com.example.android_register_system.constant.Constants;
 
 import java.io.IOException;
-import java.sql.SQLOutput;
 
 import okhttp3.Call;
 import okhttp3.OkHttpClient;
@@ -38,13 +37,10 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         setContentView(R.layout.activity_register);
 
         init();
-
-        bt_register.setOnClickListener(this);
     }
 
     @Override
-    public void onClick(View view) {
-
+    public void onClick(View v) {
         //获取到控件中的数据
         String userNum = et_userNum.getText().toString();
         String username = et_username.getText().toString();
@@ -102,14 +98,11 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
             isOk = false;
         }
 
-        System.out.println("isOk:"+isOk);
-
         if (isOk) {
             new Thread(new Runnable() {
                 @Override
                 public void run() {
                     Request request = new Request.Builder().url(Constants.getRegisterUrl(userNum, password_1, username, finalIsStudent)).get().build();
-                    System.out.println("asdasda");
                     try {
                         OkHttpClient client = new OkHttpClient();
                         client.newCall(request).enqueue(callback);
@@ -142,7 +135,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        System.out.println("body:"+body);
+                        System.out.println(body);
                         //根据返回值进行跳转
                         if ("2".equals(body)) {
                             Toast.makeText(RegisterActivity.this, "学号已被注册！", Toast.LENGTH_SHORT).show();
@@ -167,6 +160,6 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         rb_student = findViewById(R.id.rb_student);
         rb_teacher = findViewById(R.id.rb_teacher);
         bt_register = findViewById(R.id.bt_register);
-
+        bt_register.setOnClickListener(this);
     }
 }
