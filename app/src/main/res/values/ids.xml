@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bt_login" type="id" />
+    <item name="cb_remember_pwd" type="id" />
+    <item name="tv_sign_up" type="id" />
+    <item name="iv_pwd_switch" type="id" />
+    <item name="et_pwd" type="id" />
+    <item name="et_account" type="id" />
+</resources>

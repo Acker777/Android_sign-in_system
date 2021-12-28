@@ -20,6 +20,7 @@
             android:layout_marginLeft="30dp"
             android:layout_marginEnd="10dp"
             android:layout_marginRight="30dp"
+
             android:text="新建课程"></Button>
     </RelativeLayout>
 

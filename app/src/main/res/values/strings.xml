@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">签到宝</string>
+    <string name="app_name">课程签到系统</string>
     <!-- Strings related to login -->
     <string name="shared_preferences_file_name">sp_login</string>
     <string name="login_account_name">login_account_name</string>

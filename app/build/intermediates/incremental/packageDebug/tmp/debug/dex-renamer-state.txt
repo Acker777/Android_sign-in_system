@@ -1,0 +1,4 @@
+#Wed Dec 29 00:27:51 CST 2021
+base.0=D\:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
