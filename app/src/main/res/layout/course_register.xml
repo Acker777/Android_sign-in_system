@@ -2,100 +2,125 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@drawable/q6"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-<RelativeLayout
-    android:layout_width="0dp"
-    android:layout_height="wrap_content"
-    tools:ignore="MissingConstraints">
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
 
-    <EditText
-        android:id="@+id/courseNum"
-        android:layout_height="50dp"
-        android:layout_width="150dp"
-        android:text="课号："
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="50dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="30dp"
-        android:layout_marginEnd="50dp"
-        android:layout_marginRight="50dp"
-        android:editable="false"
-        tools:ignore="Deprecated,MissingConstraints"
-         />
+        <EditText
+            android:id="@+id/courseNum"
+            android:text="课号："
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_edittext"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:editable="false"
+            tools:ignore="Deprecated,MissingConstraints"
+            />
 
-    <EditText
-        android:id="@+id/courseName"
-        android:layout_height="50dp"
-        android:layout_width="150dp"
-        android:hint="课程名称："
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="50dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="70dp"
-        android:layout_marginEnd="50dp"
-        android:layout_marginRight="50dp"
-        android:editable="false"
-        tools:ignore="Deprecated,MissingConstraints"
-        />
+        <EditText
+            android:id="@+id/courseName"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:background="@drawable/rounded_edittext"
+            android:textColor="@android:color/white"
+            android:hint="课程名称："
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:editable="false"
+            tools:ignore="Deprecated,MissingConstraints"
+            />
+
+        <EditText
+            android:id="@+id/teacherName"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:background="@drawable/rounded_edittext"
+            android:textColor="@android:color/white"
+            android:hint="教师姓名:"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="110dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:editable="false"
+            tools:ignore="Deprecated,MissingConstraints"
+            />
+
+    </RelativeLayout>
 
 
-    <EditText
-        android:id="@+id/teacherName"
-        android:layout_height="50dp"
-        android:layout_width="50dp"
-        android:hint="教师姓名:"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="50dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="110dp"
-        android:layout_marginEnd="50dp"
-        android:layout_marginRight="50dp"
-        android:editable="false"
-        tools:ignore="Deprecated,MissingConstraints"
-        />
 
-    <Button
-        android:id="@+id/button"
-        android:text="签到记录"
-        android:layout_height="50dp"
-        android:layout_width="100dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="50dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="170dp"
-        android:layout_marginEnd="50dp"
-        android:layout_marginRight="50dp"
-        android:editable="false"
-        tools:ignore="Deprecated" />
 
-    <ListView
-        android:id="@+id/register_list"
-        android:layout_width="409dp"
-        android:layout_height="504dp"
-        android:dividerHeight="0dp"
-        android:layout_marginTop="210dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginEnd="5dp"
-        tools:ignore="MissingConstraints"
-        android:layout_marginLeft="10dp" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+        <Button
+            android:id="@+id/button"
+            android:text="签到记录"
+            android:layout_height="50dp"
+            android:layout_width="100dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="170dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            android:editable="false"
+            tools:ignore="Deprecated" />
+
 </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <ListView
+            android:id="@+id/register_list"
+            android:layout_width="409dp"
+            android:layout_height="504dp"
+            android:dividerHeight="0dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            tools:ignore="MissingConstraints"
+            android:layout_marginLeft="10dp" />
+    </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>
