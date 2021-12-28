@@ -4,7 +4,7 @@ public class Constants {
     public Constants() {
     }
 
-    final static public String baseUrl = "http://192.168.1.109:8080/";
+    final static public String baseUrl = "http://34.81.192.112/:8080/";
 
     //登陆请求
     final static public String loginUrl = baseUrl + "login";
