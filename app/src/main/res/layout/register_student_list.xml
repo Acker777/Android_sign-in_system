@@ -51,7 +51,7 @@
                 android:layout_height="match_parent"
                 android:text="已签到"
                 android:gravity="center"
-                android:background="@color/purple_200">
+                android:background="@color/colorPrimary">
             </TextView>
         </LinearLayout>
     </RelativeLayout>

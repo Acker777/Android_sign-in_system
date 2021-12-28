@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_edit_shape.xml.flat",
-        "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\src\\main\\res\\drawable\\wifi_edit_shape.xml"
-    },
-    {
         "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_accessible_forward_24.xml.flat",
         "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_accessible_forward_24.xml"
+    },
+    {
+        "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_edit_shape.xml.flat",
+        "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\src\\main\\res\\drawable\\wifi_edit_shape.xml"
     },
     {
         "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility_off_black_24dp.png.flat",
@@ -46,6 +46,10 @@
     {
         "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
         "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_readbg5.jpg.flat",
+        "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\src\\main\\res\\drawable\\readbg5.jpg"
     },
     {
         "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
@@ -94,6 +98,10 @@
     {
         "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility_black_24dp.png.flat",
         "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoback.jpg.flat",
+        "source": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\src\\main\\res\\drawable\\logoback.jpg"
     },
     {
         "merged": "D:\\Acker_Andy\\Android\\Android_sign-in_system2\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_list_item.xml.flat",

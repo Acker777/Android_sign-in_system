@@ -1175,6 +1175,7 @@ drawable ic_visibility_black_24dp
 drawable ic_visibility_off_black_24dp
 drawable login1
 drawable logo
+drawable logoback
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1193,6 +1194,7 @@ drawable notify_panel_notification_icon_bg
 drawable option
 drawable q5
 drawable q6
+drawable readbg5
 drawable rounded_edittext
 drawable shape
 drawable tooltip_frame_dark
